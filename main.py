@@ -45,7 +45,7 @@ while True:
 
     # Exit
     elif choice == 4:
-        print("\nDhanyawaad Aapne Humara System use kiya 🙏💡")
+        print("\nDhanyawaad Aapne Humara System use kiya 🙏")
         break
 
     else:
